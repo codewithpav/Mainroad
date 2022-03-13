@@ -24,6 +24,7 @@ nav,
 section {
 	display: block;
 }
+	
 
 :focus::-webkit-input-placeholder {
 	color: transparent;
